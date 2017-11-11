@@ -1,2 +1,2 @@
-# recipe-riot
-Franz Recipe for Riot
+# Riot for Franz
+This is a Franz recipe for Riot
