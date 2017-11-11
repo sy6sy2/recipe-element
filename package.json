@@ -1,0 +1,16 @@
+{
+  "id": "riot",
+  "name": "Riot",
+  "version": "1.0.0",
+  "description": "Decentralized and encrypted discussion & collaboration, powered by [matrix]",
+  "main": "index.js",
+  "author": "Sylvain Cecchetto <cecchetto.sylvain@me.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://riot.im/app/#/login",
+    "hasTeamID": false,
+    "urlInputSuffix": false,
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  }
+}
