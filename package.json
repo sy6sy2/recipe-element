@@ -9,6 +9,7 @@
   "config": {
     "serviceURL": "https://riot.im/app",
     "hasTeamID": false,
+    "hasCustomUrl": true,
     "urlInputSuffix": false,
     "hasNotificationSound": true,
     "hasIndirectMessages": true
