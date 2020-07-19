@@ -1,15 +1,15 @@
 {
-  "id": "riot",
-  "name": "Riot",
+  "id": "element",
+  "name": "Element",
   "version": "1.0.1",
-  "description": "Decentralized and encrypted discussion & collaboration, powered by [matrix]",
+  "description": "Decentralized and encrypted discussion & collaboration, powered by [matrix] formerly known as Riot and Vector.",
   "main": "index.js",
-  "author": "Sylvain Cecchetto <cecchetto.sylvain@me.com>",
+  "author": "Simon Lüke, based on recipe-riot by Sylvain Cecchetto <cecchetto.sylvain@me.com> as delivered by Franz.",
   "license": "MIT",
+  "repository": "https://github.com/semaphor/recipe-element",
   "config": {
-    "serviceURL": "https://riot.im/app",
+    "serviceURL": "https://app.element.io",
     "hasTeamID": false,
-    "hasCustomUrl": true,
     "urlInputSuffix": false,
     "hasNotificationSound": true,
     "hasIndirectMessages": true
